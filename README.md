@@ -49,7 +49,7 @@ The analysis includes:
 Feel free to contribute by opening an issue or submitting a pull request!
 
 ## License 📝
-This project is licensed under the MIT License.
+This project is licensed under the iGnosis Tech.
 
 ## Contact 📬
 For any inquiries, reach out via GitHub Issues or email.
