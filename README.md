@@ -17,7 +17,6 @@ This project analyzes transaction data to identify **top-selling products** and 
 
 ## Project Structure 📂
 ```
-📁 data/              # Raw and processed datasets
 📁 notebooks/         # Jupyter notebooks with step-by-step analysis
 📁 visualizations/    # Graphs and insights from the analysis
 📄 Report.md          # Summary of key findings and business recommendations
