@@ -26,7 +26,7 @@ This project analyzes transaction data to identify **top-selling products** and 
 ## How to Use 📌
 1. Clone the repository:
    ```bash
-   git clone <repo_link>
+   git clone https://github.com/KritPrasad05/-iGnosis_Tech_Internship_Task.git
    ```
 2. Install dependencies:
    ```bash
