@@ -36,7 +36,6 @@ This project analyzes transaction data to identify **top-selling products** and 
    ```bash
    jupyter notebook
    ```
-4. Open the analysis notebook and explore insights.
 
 ## Visualizations 📊
 The analysis includes:
